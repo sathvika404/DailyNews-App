@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DailyNews-App.git/static/css/main.dc4d6ff2.css",
-    "main.js": "/DailyNews-App.git/static/js/main.b329c37b.js",
-    "static/js/453.b2157c12.chunk.js": "/DailyNews-App.git/static/js/453.b2157c12.chunk.js",
-    "static/media/loading.gif": "/DailyNews-App.git/static/media/loading.93f3c96e0bff8d9d3589.gif",
-    "index.html": "/DailyNews-App.git/index.html",
-    "main.dc4d6ff2.css.map": "/DailyNews-App.git/static/css/main.dc4d6ff2.css.map",
-    "main.b329c37b.js.map": "/DailyNews-App.git/static/js/main.b329c37b.js.map",
-    "453.b2157c12.chunk.js.map": "/DailyNews-App.git/static/js/453.b2157c12.chunk.js.map"
+    "main.css": "/DailyNews-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/DailyNews-App/static/js/main.584f3d2d.js",
+    "static/js/453.3e2f6b73.chunk.js": "/DailyNews-App/static/js/453.3e2f6b73.chunk.js",
+    "static/media/loading.gif": "/DailyNews-App/static/media/loading.93f3c96e0bff8d9d3589.gif",
+    "index.html": "/DailyNews-App/index.html",
+    "main.dc4d6ff2.css.map": "/DailyNews-App/static/css/main.dc4d6ff2.css.map",
+    "main.584f3d2d.js.map": "/DailyNews-App/static/js/main.584f3d2d.js.map",
+    "453.3e2f6b73.chunk.js.map": "/DailyNews-App/static/js/453.3e2f6b73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.b329c37b.js"
+    "static/js/main.584f3d2d.js"
   ]
 }
