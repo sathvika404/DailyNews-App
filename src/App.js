@@ -18,7 +18,7 @@ export default class App extends Component {
   }
   render() {
     return (
-      <div>
+      <>
         <Router>
           <Navbar />
             <LoadingBar
@@ -38,7 +38,7 @@ export default class App extends Component {
             <Route exact path="/technology" element={<News setProgress={this.setProgress}  key="technology" pageSize={5} country="us" category="technology" />} />
           </Routes>
         </Router>
-      </div>
+      </>
     );
   }
 }
