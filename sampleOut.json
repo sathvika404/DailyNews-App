@@ -1,47 +1,145 @@
 {
-  "status": "ok",
-  "totalResults": 3,
+  "totalArticles": 322958,
   "articles": [
     {
+      "id": "c2096c35d12917c8a09053a13456069a",
+      "title": "15-year-old girl with 75% burns dies in Delhi: Odisha CM expresses shock; cops probing case",
+      "description": "India News: A 15-year-old girl from Odisha, who suffered severe burns after being set on fire by unidentified individuals on June 19, has tragically passed away d",
+      "content": "Medical staff brings the 15-year-old girl, who was undergoing treatment at AIIMS Bhubaneswar after three miscreants set her ablaze in Odisha's Puri district, to be airlifted to Delhi, in Bhubaneswar. (PTI Photo)\nNEW DELHI: A 15-year-old girl who suff... [1546 chars]",
+      "url": "https://timesofindia.indiatimes.com/india/minor-girl-set-ablaze-in-puri-dies-aiims-confirms-75-burns-odisha-cm-expresses-shock-miscreants-still-at-large/articleshow/123063874.cms",
+      "image": "https://static.toiimg.com/thumb/msid-123063914,width-1070,height-580,imgsize-115746,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-08-02T14:57:00Z",
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "At least 11 people die in a stampede in India as fans celebrate cricket championship",
-      "description": "At least 11 people are dead and more than 30 injured after a stampede on Wednesday as crowds tried to enter a cricket stadium in the southern Indian state of Karnataka, authorities said.",
-      "url": "https://www.nbcnews.com/world/asia/least-11-people-die-stampede-india-fans-celebrate-cricket-championship-rcna211098",
-
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250604-Karnataka-India-mb-0824-f80994.jpg",
-      "publishedAt": "2025-06-05T08:36:51Z",
-      "content": "Cricket fans had come out to celebrate Royal Challengers Bengalurus first Indian Premier League title win on Tuesday. The team had given away free passes to fans for the event through its website, an… [+1088 chars]"
+        "id": "9c931d3332c3a87c89b804230892aa64",
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      }
     },
     {
+      "id": "d26c102d0ebe623a8eed2eb7fb34d7c4",
+      "title": "For Nipah prevention, learning to live safely with bats is the way forward, say experts",
+      "description": "Kerala faces recurring Nipah virus spillover events, prompting experts to explore airborne transmission risks and advocate for behavior modification.",
+      "content": "Ever since its first encounter with Nipah virus (NiV) in 2018, when 23 cases were identified in the outbreak, Kerala has reported several rare and random NiV spillover events almost every year.\nThis year, the State reported four cases between May and... [4237 chars]",
+      "url": "https://www.thehindu.com/news/national/kerala/to-prevent-nipah-learning-to-live-safely-with-bats-is-the-way-forward-experts/article69887163.ece",
+      "image": "https://th-i.thgim.com/public/incoming/lye64e/article69887510.ece/alternates/LANDSCAPE_1200/1693_30_5_2024_18_35_45_4_FRUIT_BATS_03.JPG",
+      "publishedAt": "2025-08-02T14:38:00Z",
       "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
-      },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "https://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        "id": "b186b851cfda2f4463224771573fadf2",
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com"
+      }
     },
     {
+      "id": "7e38c6bac1ea87ac6ec68a4747f53dfc",
+      "title": "'Coolie' trailer out: Rajinikanth roars back in a mass action drama, Lokesh Kanagaraj's directorial promises a vintage treat",
+      "description": "Rajinikanth's 'Coolie,' directed by Lokesh Kanagaraj, is generating immense excitement with its promise of vintage Rajini style. The trailer, unveiled",
+      "content": "Rajinikanth's vintage swag and action power the 'Coolie' trailer\nTrailer wows fans with vintage Rajini at star-studded audio launch\n‘Coolie’ gets ‘A’ certificate, set for grand release on August 14\nSuperstar Rajinikanth 's upcoming film 'Coolie' has ... [1661 chars]",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/coolie-trailer-out-rajinikanth-roars-back-in-a-mass-action-drama-lokesh-kanagarajs-directorial-promises-a-vintage-treat/articleshow/123063019.cms",
+      "image": "https://static.toiimg.com/thumb/msid-123063039,width-1070,height-580,imgsize-16416,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2025-08-02T13:36:00Z",
       "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
-      },
-      "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "https://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        "id": "9c931d3332c3a87c89b804230892aa64",
+        "name": "Times of India",
+        "url": "https://timesofindia.indiatimes.com"
+      }
+    },
+    {
+      "id": "6bb5192947aecdd4b4d21229f79c7b52",
+      "title": "India to still buy oil from Russia despite Trump threats, say officials",
+      "description": "No pause on Russian imports by Indian oil firms who base decisions on ‘price, grade of crude, logistics and economic factors’",
+      "content": "Indian oil refineries will continue to buy oil from Russia, officials have said, before threatened US sanctions next week against Moscow’s trading partners over the war in Ukraine.\nMedia reports on Friday had suggested India, a big energy importer, w... [4072 chars]",
+      "url": "https://www.theguardian.com/world/2025/aug/02/india-buy-oil-russia-despite-trump-tariff-threats",
+      "image": "https://i.guim.co.uk/img/media/c5e2c578bbd2725f9152e57c77769efbee3ae478/280_0_3635_2908/master/3635.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a5d7576c4e979295bd31bca9de151af",
+      "publishedAt": "2025-08-02T13:24:00Z",
+      "source": {
+        "id": "558a003a7a0164e924408edec7e99f99",
+        "name": "theguardian.com",
+        "url": "https://www.theguardian.com"
+      }
+    },
+    {
+      "id": "c8faf83a0437ae874ee6e5d5bb22f43d",
+      "title": "Chief Justice of India Gavai visits chess champion Divya Deshmukh at her home, hails her; recalls old family ties",
+      "description": "Chief Justice of India congratulates youngest Women's FIDE Chess World Cup champion Divya Deshmukh in Nagpur.",
+      "content": "Chief Justice of India Bhushan Gavai on Saturday (August 2, 2025) visited newly-crowned FIDE Chess World Cup champion and Grandmaster Divya Deshmukh at her residence in Nagpur to congratulate her on her remarkable achievement.\nDeshmukh (19) became th... [885 chars]",
+      "url": "https://www.thehindu.com/sport/other-sports/chief-justice-of-india-gavai-visits-chess-champion-divya-deshmukh-at-her-home-hails-her-recalls-old-family-ties/article69886939.ece",
+      "image": "https://th-i.thgim.com/public/incoming/s0catz/article69886958.ece/alternates/LANDSCAPE_1200/20250731323L.jpg",
+      "publishedAt": "2025-08-02T12:58:00Z",
+      "source": {
+        "id": "b186b851cfda2f4463224771573fadf2",
+        "name": "The Hindu",
+        "url": "https://www.thehindu.com"
+      }
+    },
+    {
+      "id": "621f88d6f11f02aaf346fe9c8f952e04",
+      "title": "ED makes first arrest in Rs 3,000-crore loan fraud case against Anil Ambani",
+      "description": "The ED arrested BTPL Managing Director Partha Sarathi Biswal after uncovering that the firm allegedly received Rs 5.4 crore from Anil Ambani-owned Reliance Power for arranging fake bank guarantees worth Rs 68.2 crore. The case involves money laundering, forged SBI endorsements, and fabricated emails linked to a tender floated by SECI.",
+      "content": "In a significant development in the money laundering investigation related to business entities owned by industrialist Anil Ambani, the Enforcement Directorate (ED) has made its first arrest. Managing Director of Biswal Tradelink Pvt. Ltd. (BTPL), Pa... [2190 chars]",
+      "url": "https://www.indiatoday.in/india/story/ed-makes-first-arrest-in-rs-3000-crore-loan-fraud-case-against-anil-ambani-2765334-2025-08-02",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_story_image/202508/WhatsApp_Image_2022-03-25_at_1_3_1200x768.jpeg%3FVersionId%3DK6E_Y57jU9DadKIbpK0urK4fPyP5QCM7?VersionId=7i5YZxYxD7gNSiuQbIqq8dqqVS0Bi1J5",
+      "publishedAt": "2025-08-02T12:55:29Z",
+      "source": {
+        "id": "2c774512034015423758e249c44d2593",
+        "name": "India Today",
+        "url": "https://www.indiatoday.in"
+      }
+    },
+    {
+      "id": "c21f65c44127aab27a065a5e5481e0a9",
+      "title": "'He has his own reasons': Shashi Tharoor on Rahul Gandhi backing Trump’s ‘dead economy’ remark",
+      "description": "Shashi Tharoor said India must protect its strong trade ties with the US, adding that America is one of the country’s biggest export markets. | Latest News India",
+      "content": "Congress MP Shashi Tharoor on Saturday said he would not comment on Rahul Gandhi’s remarks about US President Donald Trump’s “dead economy” comment, but said India’s trade ties with America are important and should not be affected. Congress MP Shashi... [1933 chars]",
+      "url": "https://www.hindustantimes.com/india-news/he-has-his-own-reasons-shashi-tharoor-on-rahul-gandhi-backing-trump-s-dead-economy-remark-101754138053305.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/02/1600x900/PTI07-31-2025-000220A-0_1754138608020_1754138635527.jpg",
+      "publishedAt": "2025-08-02T12:53:32Z",
+      "source": {
+        "id": "d32e3679b6a53eca83b3406e364c0d26",
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com"
+      }
+    },
+    {
+      "id": "16b46e2b6b9a2e21aee0a272eadbbde6",
+      "title": "Karan Johar calls it full-circle moment with Shah Rukh Khan, Rani Mukerji, and him winning National Awards",
+      "description": "Shah Rukh Khan and Rani Mukerji won National Awards in the Best Actor category for their performances in Jawan and Mrs Chatterjee Vs Norway. | Bollywood",
+      "content": "Shah Rukh Khan and Vikrant Massey were announced as the joint winners of the National Award for Best Actor for Jawan and 12th Fail, respectively. Meanwhile, Rani Mukerji won the National Award for Best Actress for Mrs Chatterjee Vs. Norway. Karan Joh... [2145 chars]",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/karan-johar-calls-it-a-full-circle-moment-with-shah-rukh-khan-rani-mukerji-winning-national-award-best-actor-jawan-101754136132383.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/02/1600x900/karan_johar_shah_rukh_khan_rani_mukerji_1754136847586_1754136847798.jpeg",
+      "publishedAt": "2025-08-02T12:42:19Z",
+      "source": {
+        "id": "d32e3679b6a53eca83b3406e364c0d26",
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com"
+      }
+    },
+    {
+      "id": "0296759b46b8c2c97830bb36e0410628",
+      "title": "This 'Sarabhai vs Sarabhai' Actor Once Had Just Rs 2,500 In Bank, Now Stars In Rs 400 Crore Film",
+      "description": "Rajesh Kumar, famous as Rosesh Sarabhai, triumphs over financial ruin and personal struggles to shine in Mohit Suri's drama 'Saiyaara'.",
+      "content": "Last Updated: August 02, 2025, 13:54 IST\n1 / 8 He once made the nation laugh as Rosesh Sarabhai in the iconic sitcom 'Sarabhai vs Sarabhai', but behind the comic persona, actor Rajesh Kumar was battling a deeply personal crisis. Few knew that the man... [2222 chars]",
+      "url": "https://www.news18.com/photogallery/movies/this-sarabhai-vs-sarabhai-actor-once-had-just-rs-2500-in-bank-now-stars-in-rs-400-crore-film-saiyaara-ws-kl-9479761.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/08/Untitled-design-2025-08-02T135354.027-2025-08-2e82981271f8f028230ebad8c1d3ce8a-16x9.jpg",
+      "publishedAt": "2025-08-02T12:21:16Z",
+      "source": {
+        "id": "7541b754a42048aa8c6e5af405430334",
+        "name": "News18",
+        "url": "https://www.news18.com"
+      }
+    },
+    {
+      "id": "7ddf87f060696b22a5d70245c1cd2b8e",
+      "title": "IndiGo bans passenger who slapped co-flier on Mumbai-Kolkata flight",
+      "description": "A man from Assam's Cachar was slapped by a co-passenger on an IndiGo flight. The airlines has suspended the accused from using the airlines in future. | Latest News India",
+      "content": "The man who slapped a co-passenger on a Mumbai-Kolkata IndiGo flight on Friday has been suspended by the airlines from flying. The accused man allegedly slapped his co-passenger, a man from Assam's Cachar, who was reportedly experiencing a panic atta... [1534 chars]",
+      "url": "https://www.hindustantimes.com/india-news/man-who-slapped-co-passenger-mumbai-kolkata-indigo-flight-suspended-from-flying-airline-101754136370629.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/02/1600x900/PTI06-02-2025-RPT434B-0_1749027826836_1754136437152.jpg",
+      "publishedAt": "2025-08-02T12:08:49Z",
+      "source": {
+        "id": "d32e3679b6a53eca83b3406e364c0d26",
+        "name": "Hindustan Times",
+        "url": "https://www.hindustantimes.com"
+      }
     }
   ]
 }
