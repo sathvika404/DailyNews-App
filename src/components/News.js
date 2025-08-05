@@ -104,7 +104,7 @@ capitalizeFirstLetter=(string)=>{
             return (
               <div className='col-md-4' key={element.url}>
                 <NewsItem
-                  title={element.title ? element.title : ""}
+              title={element.title ? element.title : ""}
                   description={element.description ? element.description : ""}
                   imageUrl={element.image}
                   url={element.url}
@@ -140,3 +140,4 @@ capitalizeFirstLetter=(string)=>{
 }
 
 export default News;
+
