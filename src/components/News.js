@@ -106,7 +106,7 @@ capitalizeFirstLetter=(string)=>{
                 <NewsItem
                   title={element.title ? element.title : ""}
                   description={element.description ? element.description : ""}
-                  imageUrl={element.urlToImage}
+                  imageUrl={element.image}
                   url={element.url}
                   author={element.author}
                   date={element.publishedAt}
@@ -140,4 +140,3 @@ capitalizeFirstLetter=(string)=>{
 }
 
 export default News;
-
