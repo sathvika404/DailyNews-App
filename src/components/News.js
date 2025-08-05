@@ -33,7 +33,7 @@ capitalizeFirstLetter=(string)=>{
 
   async componentDidMount() {
     this.props.setProgress(10);
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=73b4f212260d4c51aaa9f8678040374e&page=1&pageSize=${this.props.pageSize}`;
+    let url = `https://gnews.io/api/v4/top-headlines?country=${this.props.country}&category=${this.props.category}&token=eb5ae29f43d500ef64bb190e11509682&lang=en&page=1&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -51,7 +51,7 @@ capitalizeFirstLetter=(string)=>{
     console.log("previous");
         this.props.setProgress(10);
 
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=73b4f212260d4c51aaa9f8678040374e&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
+    let url = `https://gnews.io/api/v4/top-headlines?country=${this.props.country}&category=${this.props.category}&token=eb5ae29f43d500ef64bb190e11509682&lang=en&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -71,7 +71,7 @@ capitalizeFirstLetter=(string)=>{
     if (this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize)) {
       // Do nothing if next page exceeds total pages
     } else {
-      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=73b4f212260d4c51aaa9f8678040374e&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+      let url = `https://gnews.io/api/v4/top-headlines?country=${this.props.country}&category=${this.props.category}&token=eb5ae29f43d500ef64bb190e11509682&lang=en&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
       this.setState({ loading: true });
       let data = await fetch(url);
               this.props.setProgress(30);
@@ -140,3 +140,4 @@ capitalizeFirstLetter=(string)=>{
 }
 
 export default News;
+
